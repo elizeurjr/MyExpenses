@@ -1,16 +1,11 @@
-# expenses
+# Expenses
 
-A new Flutter project.
+Este é um projeto para estudo de Flutter e aperfeiçoamento na utilização do Git e Github. 
 
-## Getting Started
+Nesta aplicação foram utilizados os conceitos e Widgets abaixo:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Stateless](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html) 
+- [Stateful](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html) 
+- [MaterialApp](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
+- [ListView](https://flutter.dev/docs/cookbook/lists/long-lists)
+- 
